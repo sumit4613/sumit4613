@@ -18,7 +18,7 @@ I also maintain several projects at [101Loop](https://github.com/101loop/), some
 
 - [drf-instamojo ](https://github.com/101loop/drf-instamojo)
 
-🔭 I’m currently learing [:rabbit:](https://golang.org).
+🔭 I’m currently learning [:rabbit:](https://golang.org).
 
 📫 How to reach me:
 
