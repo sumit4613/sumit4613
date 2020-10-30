@@ -30,6 +30,11 @@ I also maintain several projects at [101Loop](https://github.com/101loop/), some
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#4](https://github.com/SpicyPizza/create-envfile/issues/4) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+2. 💪 Opened PR [#5](https://github.com/SpicyPizza/create-envfile/pull/5) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+3. ❗️ Opened issue [#4](https://github.com/SpicyPizza/create-envfile/issues/4) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+4. ❗️ Closed issue [#58](https://github.com/101Loop/drf-user/issues/58) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+5. ❗️ Closed issue [#59](https://github.com/101Loop/drf-user/issues/59) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
 <!--END_SECTION:activity-->
 
 ---
