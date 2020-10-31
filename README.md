@@ -30,11 +30,11 @@ I also maintain several projects at [101Loop](https://github.com/101loop/), some
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#75](https://github.com/101Loop/drf-user/pull/75) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
-2. 🗣 Commented on [#4](https://github.com/SpicyPizza/create-envfile/issues/4) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-3. 💪 Opened PR [#5](https://github.com/SpicyPizza/create-envfile/pull/5) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-4. ❗️ Opened issue [#4](https://github.com/SpicyPizza/create-envfile/issues/4) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-5. ❗️ Closed issue [#58](https://github.com/101Loop/drf-user/issues/58) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+1. 🗣 Commented on [#63](https://github.com/101Loop/drf-user/issues/63) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+2. 🎉 Merged PR [#63](https://github.com/101Loop/drf-user/pull/63) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+3. ❗️ Closed issue [#57](https://github.com/101Loop/drf-user/issues/57) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+4. ❌ Closed PR [#75](https://github.com/101Loop/drf-user/pull/75) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+5. 🗣 Commented on [#4](https://github.com/SpicyPizza/create-envfile/issues/4) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
 <!--END_SECTION:activity-->
 
 ---
