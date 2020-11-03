@@ -30,11 +30,11 @@ I also maintain several projects at [101Loop](https://github.com/101loop/), some
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/101Loop/HisabKitab-BE/pull/29) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
-2. 💪 Opened PR [#29](https://github.com/101Loop/HisabKitab-BE/pull/29) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
-3. 🎉 Merged PR [#7](https://github.com/101Loop/naaive-bot/pull/7) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
-4. 🎉 Merged PR [#84](https://github.com/101Loop/drf-user/pull/84) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
-5. 💪 Opened PR [#84](https://github.com/101Loop/drf-user/pull/84) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+1. 🎉 Merged PR [#30](https://github.com/101Loop/HisabKitab-BE/pull/30) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
+2. 🎉 Merged PR [#29](https://github.com/101Loop/HisabKitab-BE/pull/29) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
+3. 💪 Opened PR [#29](https://github.com/101Loop/HisabKitab-BE/pull/29) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
+4. 🎉 Merged PR [#7](https://github.com/101Loop/naaive-bot/pull/7) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
+5. 🎉 Merged PR [#84](https://github.com/101Loop/drf-user/pull/84) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
 <!--END_SECTION:activity-->
 
 ---
