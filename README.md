@@ -30,11 +30,11 @@ I also maintain several projects at [101Loop](https://github.com/101loop/), some
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/101Loop/naaive-bot/pull/9) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
-2. 💪 Opened PR [#9](https://github.com/101Loop/naaive-bot/pull/9) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
-3. 🎉 Merged PR [#8](https://github.com/101Loop/naaive-bot/pull/8) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
-4. ❗️ Closed issue [#74](https://github.com/101Loop/drf-user/issues/74) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
-5. 🎉 Merged PR [#85](https://github.com/101Loop/drf-user/pull/85) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+1. 🗣 Commented on [#5](https://github.com/SpicyPizza/create-envfile/issues/5) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+2. 🎉 Merged PR [#9](https://github.com/101Loop/naaive-bot/pull/9) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
+3. 💪 Opened PR [#9](https://github.com/101Loop/naaive-bot/pull/9) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
+4. 🎉 Merged PR [#8](https://github.com/101Loop/naaive-bot/pull/8) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
+5. ❗️ Closed issue [#74](https://github.com/101Loop/drf-user/issues/74) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
 <!--END_SECTION:activity-->
 
 ---
