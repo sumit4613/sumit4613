@@ -30,11 +30,11 @@ I also maintain several projects at [101Loop](https://github.com/101loop/), some
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/101Loop/sliphy/pull/1) in [101Loop/sliphy](https://github.com/101Loop/sliphy)
-2. 🗣 Commented on [#5](https://github.com/SpicyPizza/create-envfile/issues/5) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-3. 🎉 Merged PR [#9](https://github.com/101Loop/naaive-bot/pull/9) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
-4. 💪 Opened PR [#9](https://github.com/101Loop/naaive-bot/pull/9) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
-5. 🎉 Merged PR [#8](https://github.com/101Loop/naaive-bot/pull/8) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
+1. 🎉 Merged PR [#2](https://github.com/101Loop/sliphy/pull/2) in [101Loop/sliphy](https://github.com/101Loop/sliphy)
+2. 💪 Opened PR [#2](https://github.com/101Loop/sliphy/pull/2) in [101Loop/sliphy](https://github.com/101Loop/sliphy)
+3. 🎉 Merged PR [#1](https://github.com/101Loop/sliphy/pull/1) in [101Loop/sliphy](https://github.com/101Loop/sliphy)
+4. 🗣 Commented on [#5](https://github.com/SpicyPizza/create-envfile/issues/5) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+5. 🎉 Merged PR [#9](https://github.com/101Loop/naaive-bot/pull/9) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
 <!--END_SECTION:activity-->
 
 ---
