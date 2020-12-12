@@ -30,11 +30,11 @@ I also maintain several projects at [101Loop](https://github.com/101loop/), some
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/101Loop/sliphy/pull/4) in [101Loop/sliphy](https://github.com/101Loop/sliphy)
-2. 💪 Opened PR [#4](https://github.com/101Loop/sliphy/pull/4) in [101Loop/sliphy](https://github.com/101Loop/sliphy)
-3. 🎉 Merged PR [#3](https://github.com/101Loop/sliphy/pull/3) in [101Loop/sliphy](https://github.com/101Loop/sliphy)
-4. 💪 Opened PR [#3](https://github.com/101Loop/sliphy/pull/3) in [101Loop/sliphy](https://github.com/101Loop/sliphy)
-5. 🎉 Merged PR [#2](https://github.com/101Loop/sliphy/pull/2) in [101Loop/sliphy](https://github.com/101Loop/sliphy)
+1. 💪 Opened PR [#678](https://github.com/axnsan12/drf-yasg/pull/678) in [axnsan12/drf-yasg](https://github.com/axnsan12/drf-yasg)
+2. 🎉 Merged PR [#4](https://github.com/101Loop/sliphy/pull/4) in [101Loop/sliphy](https://github.com/101Loop/sliphy)
+3. 💪 Opened PR [#4](https://github.com/101Loop/sliphy/pull/4) in [101Loop/sliphy](https://github.com/101Loop/sliphy)
+4. 🎉 Merged PR [#3](https://github.com/101Loop/sliphy/pull/3) in [101Loop/sliphy](https://github.com/101Loop/sliphy)
+5. 💪 Opened PR [#3](https://github.com/101Loop/sliphy/pull/3) in [101Loop/sliphy](https://github.com/101Loop/sliphy)
 <!--END_SECTION:activity-->
 
 ---
