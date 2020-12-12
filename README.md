@@ -30,11 +30,11 @@ I also maintain several projects at [101Loop](https://github.com/101loop/), some
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#678](https://github.com/axnsan12/drf-yasg/pull/678) in [axnsan12/drf-yasg](https://github.com/axnsan12/drf-yasg)
-2. 🎉 Merged PR [#4](https://github.com/101Loop/sliphy/pull/4) in [101Loop/sliphy](https://github.com/101Loop/sliphy)
-3. 💪 Opened PR [#4](https://github.com/101Loop/sliphy/pull/4) in [101Loop/sliphy](https://github.com/101Loop/sliphy)
-4. 🎉 Merged PR [#3](https://github.com/101Loop/sliphy/pull/3) in [101Loop/sliphy](https://github.com/101Loop/sliphy)
-5. 💪 Opened PR [#3](https://github.com/101Loop/sliphy/pull/3) in [101Loop/sliphy](https://github.com/101Loop/sliphy)
+1. ❗️ Closed issue [#60](https://github.com/101Loop/drf-user/issues/60) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+2. 🗣 Commented on [#60](https://github.com/101Loop/drf-user/issues/60) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+3. 🎉 Merged PR [#86](https://github.com/101Loop/drf-user/pull/86) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+4. 💪 Opened PR [#86](https://github.com/101Loop/drf-user/pull/86) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+5. 💪 Opened PR [#678](https://github.com/axnsan12/drf-yasg/pull/678) in [axnsan12/drf-yasg](https://github.com/axnsan12/drf-yasg)
 <!--END_SECTION:activity-->
 
 ---
