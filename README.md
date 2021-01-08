@@ -30,11 +30,11 @@ I also maintain several projects at [101Loop](https://github.com/101loop/), some
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#88](https://github.com/101Loop/drf-user/pull/88) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
-2. 💪 Opened PR [#88](https://github.com/101Loop/drf-user/pull/88) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
-3. 🎉 Merged PR [#87](https://github.com/101Loop/drf-user/pull/87) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
-4. ❗️ Closed issue [#60](https://github.com/101Loop/drf-user/issues/60) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
-5. 🗣 Commented on [#60](https://github.com/101Loop/drf-user/issues/60) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+1. ❗️ Closed issue [#422](https://github.com/jazzband/django-constance/issues/422) in [jazzband/django-constance](https://github.com/jazzband/django-constance)
+2. 🎉 Merged PR [#88](https://github.com/101Loop/drf-user/pull/88) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+3. 💪 Opened PR [#88](https://github.com/101Loop/drf-user/pull/88) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+4. 🎉 Merged PR [#87](https://github.com/101Loop/drf-user/pull/87) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+5. ❗️ Closed issue [#60](https://github.com/101Loop/drf-user/issues/60) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
 <!--END_SECTION:activity-->
 
 ---
