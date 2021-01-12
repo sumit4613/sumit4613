@@ -34,10 +34,10 @@ I contribute to open source projects as well, some of those are:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/SpicyPizza/create-envfile/issues/7) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-2. 🎉 Merged PR [#10](https://github.com/101Loop/naaive-bot/pull/10) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
-3. 🗣 Commented on [#1](https://github.com/101Loop/Skeleton-Text/issues/1) in [101Loop/Skeleton-Text](https://github.com/101Loop/Skeleton-Text)
-4. ❗️ Closed issue [#422](https://github.com/jazzband/django-constance/issues/422) in [jazzband/django-constance](https://github.com/jazzband/django-constance)
-5. 🎉 Merged PR [#88](https://github.com/101Loop/drf-user/pull/88) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+2. 🗣 Commented on [#7](https://github.com/SpicyPizza/create-envfile/issues/7) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+3. 🎉 Merged PR [#10](https://github.com/101Loop/naaive-bot/pull/10) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
+4. 🗣 Commented on [#1](https://github.com/101Loop/Skeleton-Text/issues/1) in [101Loop/Skeleton-Text](https://github.com/101Loop/Skeleton-Text)
+5. ❗️ Closed issue [#422](https://github.com/jazzband/django-constance/issues/422) in [jazzband/django-constance](https://github.com/jazzband/django-constance)
 <!--END_SECTION:activity-->
 
 ---
