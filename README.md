@@ -3,21 +3,17 @@
 
 ### Hi there 👋
 
-I'm Sumit. I like to code in [:snake:](https://python.org/) and [:rabbit:](https://golang.org). I mostly work with [Django](https://djangoproject.com) and [Django Rest Framework](https://www.django-rest-framework.org/).
+I'm Sumit. I like to code in [:snake:](https://python.org/) and [:rabbit:](https://golang.org). I mostly work with [Django](https://djangoproject.com), [Django Rest Framework](https://www.django-rest-framework.org/) and [Flask](https://flask.palletsprojects.com).
 
-<p align="center">
-  <img width="600" src="https://static.djangoproject.com/img/logos/django-logo-negative.png">
-</p>
+I'm currently working for a startup called [Carta Healthcare](https://www.carta.healthcare).
 
-I'm also working for a startup called [Civil Machines Technologies](https://civilmachines.com/).
+I maintain several projects at [101Loop](https://github.com/101loop/), some of those are:
 
-I also maintain several projects at [101Loop](https://github.com/101loop/), some of those are:
-
-- [drf-user](https://github.com/101loop/drf-user)
+- [drf-user](https://github.com/101loop/drf-user) (One of the [PyCharm Project of the Decade](https://www.jetbrains.com/lp/pycharm-10-years/))
 
 - [drf-instamojo ](https://github.com/101loop/drf-instamojo)
 
-I contribute to open source projects as well, some of those are:
+I contribute to some other open source projects as well, some of those are:
 
 - [create-envfile](https://github.com/SpicyPizza/create-envfile)
 
