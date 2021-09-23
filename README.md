@@ -29,11 +29,11 @@ I contribute to some other open source projects as well, some of those are:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#125](https://github.com/101Loop/drf-user/issues/125) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
-2. 🎉 Merged PR [#122](https://github.com/101Loop/drf-user/pull/122) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
-3. 🗣 Commented on [#121](https://github.com/101Loop/drf-user/issues/121) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
-4. 🗣 Commented on [#121](https://github.com/101Loop/drf-user/issues/121) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
-5. 🗣 Commented on [#61](https://github.com/101Loop/drf-user/issues/61) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+1. 🎉 Merged PR [#125](https://github.com/101Loop/drf-user/pull/125) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+2. ❗️ Closed issue [#120](https://github.com/101Loop/drf-user/issues/120) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+3. 🗣 Commented on [#125](https://github.com/101Loop/drf-user/issues/125) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+4. 🎉 Merged PR [#122](https://github.com/101Loop/drf-user/pull/122) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+5. 🗣 Commented on [#121](https://github.com/101Loop/drf-user/issues/121) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
 <!--END_SECTION:activity-->
 
 ---
