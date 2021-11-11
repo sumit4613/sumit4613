@@ -29,11 +29,11 @@ I contribute to some other open source projects as well, some of those are:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#128](https://github.com/101Loop/drf-user/pull/128) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
-2. ❗️ Closed issue [#123](https://github.com/101Loop/drf-user/issues/123) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
-3. 🗣 Commented on [#123](https://github.com/101Loop/drf-user/issues/123) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
-4. ❗️ Closed issue [#117](https://github.com/101Loop/drf-user/issues/117) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
-5. 🗣 Commented on [#128](https://github.com/101Loop/drf-user/issues/128) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+1. 🗣 Commented on [#29](https://github.com/SpicyPizza/create-envfile/issues/29) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+2. 🎉 Merged PR [#128](https://github.com/101Loop/drf-user/pull/128) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+3. ❗️ Closed issue [#123](https://github.com/101Loop/drf-user/issues/123) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+4. 🗣 Commented on [#123](https://github.com/101Loop/drf-user/issues/123) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+5. ❗️ Closed issue [#117](https://github.com/101Loop/drf-user/issues/117) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
 <!--END_SECTION:activity-->
 
 ---
