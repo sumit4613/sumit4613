@@ -29,11 +29,11 @@ I contribute to some other open source projects as well, some of those are:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#161](https://github.com/101Loop/drf-user/issues/161) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+1. 🎉 Merged PR [#161](https://github.com/101Loop/drf-user/pull/161) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
 2. 🗣 Commented on [#160](https://github.com/101Loop/drf-user/issues/160) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
-3. 🎉 Merged PR [#22](https://github.com/101Loop/naaive-bot/pull/22) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
-4. 💪 Opened PR [#22](https://github.com/101Loop/naaive-bot/pull/22) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
-5. 🎉 Merged PR [#21](https://github.com/101Loop/naaive-bot/pull/21) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
+3. 🗣 Commented on [#161](https://github.com/101Loop/drf-user/issues/161) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+4. 🗣 Commented on [#160](https://github.com/101Loop/drf-user/issues/160) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+5. 🎉 Merged PR [#22](https://github.com/101Loop/naaive-bot/pull/22) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
 <!--END_SECTION:activity-->
 
 ---
