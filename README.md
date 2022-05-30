@@ -29,11 +29,11 @@ I contribute to some other open source projects as well, some of those are:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/101Loop/drf-impersonate/pull/2) in [101Loop/drf-impersonate](https://github.com/101Loop/drf-impersonate)
-2. 💪 Opened PR [#2](https://github.com/101Loop/drf-impersonate/pull/2) in [101Loop/drf-impersonate](https://github.com/101Loop/drf-impersonate)
-3. 🎉 Merged PR [#1](https://github.com/101Loop/drf-impersonate/pull/1) in [101Loop/drf-impersonate](https://github.com/101Loop/drf-impersonate)
-4. 💪 Opened PR [#1](https://github.com/101Loop/drf-impersonate/pull/1) in [101Loop/drf-impersonate](https://github.com/101Loop/drf-impersonate)
-5. 🎉 Merged PR [#146](https://github.com/101Loop/drf-user/pull/146) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+1. ❗️ Closed issue [#43](https://github.com/101Loop/drf-user/issues/43) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+2. 🎉 Merged PR [#2](https://github.com/101Loop/drf-impersonate/pull/2) in [101Loop/drf-impersonate](https://github.com/101Loop/drf-impersonate)
+3. 💪 Opened PR [#2](https://github.com/101Loop/drf-impersonate/pull/2) in [101Loop/drf-impersonate](https://github.com/101Loop/drf-impersonate)
+4. 🎉 Merged PR [#1](https://github.com/101Loop/drf-impersonate/pull/1) in [101Loop/drf-impersonate](https://github.com/101Loop/drf-impersonate)
+5. 💪 Opened PR [#1](https://github.com/101Loop/drf-impersonate/pull/1) in [101Loop/drf-impersonate](https://github.com/101Loop/drf-impersonate)
 <!--END_SECTION:activity-->
 
 ---
