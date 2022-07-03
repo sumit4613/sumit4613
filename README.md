@@ -5,8 +5,6 @@
 
 I'm Sumit. I like to code in [:snake:](https://python.org/) and [:rabbit:](https://golang.org). I mostly work with [Django](https://djangoproject.com), [Django Rest Framework](https://www.django-rest-framework.org/) and [Flask](https://flask.palletsprojects.com).
 
-I'm currently working for a startup called [Carta Healthcare](https://www.carta.healthcare) as Backend Engineer.
-
 I maintain several projects at [101Loop](https://github.com/101loop/), some of those are:
 
 - [drf-user](https://github.com/101loop/drf-user) (One of the [PyCharm Project of the Decade](https://www.jetbrains.com/lp/pycharm-10-years/))
