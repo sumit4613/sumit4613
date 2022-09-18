@@ -27,11 +27,11 @@ I contribute to some other open source projects as well, some of those are:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/101Loop/HisabKitab-BE/pull/39) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
-2. 🎉 Merged PR [#178](https://github.com/101Loop/drf-user/pull/178) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
-3. 🎉 Merged PR [#175](https://github.com/101Loop/drf-user/pull/175) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
-4. 🎉 Merged PR [#177](https://github.com/101Loop/drf-user/pull/177) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
-5. 🎉 Merged PR [#180](https://github.com/101Loop/drf-user/pull/180) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+1. 🎉 Merged PR [#24](https://github.com/101Loop/naaive-bot/pull/24) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
+2. 🎉 Merged PR [#43](https://github.com/101Loop/naaive-bot/pull/43) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
+3. 🎉 Merged PR [#44](https://github.com/101Loop/naaive-bot/pull/44) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
+4. 🎉 Merged PR [#39](https://github.com/101Loop/naaive-bot/pull/39) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
+5. 🎉 Merged PR [#39](https://github.com/101Loop/HisabKitab-BE/pull/39) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
 <!--END_SECTION:activity-->
 
 ---
