@@ -29,9 +29,9 @@ I contribute to some other open source projects as well, some of those are:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#230](https://github.com/milesmcc/shynet/issues/230) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
 2. 🗣 Commented on [#230](https://github.com/milesmcc/shynet/issues/230) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
-3. 💪 Opened PR [#230](https://github.com/milesmcc/shynet/pull/230) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
-4. 🗣 Commented on [#229](https://github.com/milesmcc/shynet/issues/229) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
-5. 💪 Opened PR [#229](https://github.com/milesmcc/shynet/pull/229) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
+3. 🗣 Commented on [#230](https://github.com/milesmcc/shynet/issues/230) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
+4. 💪 Opened PR [#230](https://github.com/milesmcc/shynet/pull/230) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
+5. 🗣 Commented on [#229](https://github.com/milesmcc/shynet/issues/229) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
 <!--END_SECTION:activity-->
 
 ---
