@@ -27,11 +27,11 @@ I contribute to some other open source projects as well, some of those are:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#229](https://github.com/milesmcc/shynet/issues/229) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
-2. 💪 Opened PR [#229](https://github.com/milesmcc/shynet/pull/229) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
-3. ❗️ Opened issue [#228](https://github.com/milesmcc/shynet/issues/228) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
-4. 🗣 Commented on [#167](https://github.com/milesmcc/shynet/issues/167) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
-5. 🎉 Merged PR [#24](https://github.com/101Loop/naaive-bot/pull/24) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
+1. 💪 Opened PR [#230](https://github.com/milesmcc/shynet/pull/230) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
+2. 🗣 Commented on [#229](https://github.com/milesmcc/shynet/issues/229) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
+3. 💪 Opened PR [#229](https://github.com/milesmcc/shynet/pull/229) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
+4. ❗️ Opened issue [#228](https://github.com/milesmcc/shynet/issues/228) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
+5. 🗣 Commented on [#167](https://github.com/milesmcc/shynet/issues/167) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
 <!--END_SECTION:activity-->
 
 ---
