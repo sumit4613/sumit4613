@@ -27,11 +27,11 @@ I contribute to some other open source projects as well, some of those are:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#230](https://github.com/milesmcc/shynet/issues/230) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
-2. 🗣 Commented on [#230](https://github.com/milesmcc/shynet/issues/230) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
-3. 🗣 Commented on [#230](https://github.com/milesmcc/shynet/issues/230) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
-4. 💪 Opened PR [#230](https://github.com/milesmcc/shynet/pull/230) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
-5. 🗣 Commented on [#229](https://github.com/milesmcc/shynet/issues/229) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
+1. 🎉 Merged PR [#42](https://github.com/101Loop/HisabKitab-BE/pull/42) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
+2. 💪 Opened PR [#42](https://github.com/101Loop/HisabKitab-BE/pull/42) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
+3. 🎉 Merged PR [#40](https://github.com/101Loop/HisabKitab-BE/pull/40) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
+4. ❌ Closed PR [#31](https://github.com/101Loop/HisabKitab-BE/pull/31) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
+5. 🎉 Merged PR [#41](https://github.com/101Loop/HisabKitab-BE/pull/41) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
 <!--END_SECTION:activity-->
 
 ---
