@@ -27,11 +27,11 @@ I contribute to some other open source projects as well, some of those are:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#232](https://github.com/milesmcc/shynet/issues/232) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
-2. 💪 Opened PR [#232](https://github.com/milesmcc/shynet/pull/232) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
-3. 🎉 Merged PR [#33](https://github.com/101Loop/HisabKitab-BE/pull/33) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
-4. 🎉 Merged PR [#45](https://github.com/101Loop/HisabKitab-BE/pull/45) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
-5. 🎉 Merged PR [#46](https://github.com/101Loop/HisabKitab-BE/pull/46) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
+1. ❗️ Closed issue [#25](https://github.com/101Loop/drf-addons/issues/25) in [101Loop/drf-addons](https://github.com/101Loop/drf-addons)
+2. 🎉 Merged PR [#26](https://github.com/101Loop/drf-addons/pull/26) in [101Loop/drf-addons](https://github.com/101Loop/drf-addons)
+3. 🗣 Commented on [#26](https://github.com/101Loop/drf-addons/issues/26) in [101Loop/drf-addons](https://github.com/101Loop/drf-addons)
+4. 🗣 Commented on [#232](https://github.com/milesmcc/shynet/issues/232) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
+5. 💪 Opened PR [#232](https://github.com/milesmcc/shynet/pull/232) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
 <!--END_SECTION:activity-->
 
 ---
