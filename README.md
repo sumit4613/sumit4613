@@ -27,11 +27,11 @@ I contribute to some other open source projects as well, some of those are:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/sumit4613/sumit4613.github.io/pull/1) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
-2. ❌ Closed PR [#3](https://github.com/sumit4613/sumit4613.github.io/pull/3) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
-3. 🎉 Merged PR [#2](https://github.com/sumit4613/sumit4613.github.io/pull/2) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
-4. 💪 Opened PR [#1](https://github.com/sumit4613/sumit4613.github.io/pull/1) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
-5. ❗️ Closed issue [#25](https://github.com/101Loop/drf-addons/issues/25) in [101Loop/drf-addons](https://github.com/101Loop/drf-addons)
+1. 💪 Opened PR [#4](https://github.com/sumit4613/sumit4613.github.io/pull/4) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
+2. 🎉 Merged PR [#1](https://github.com/sumit4613/sumit4613.github.io/pull/1) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
+3. ❌ Closed PR [#3](https://github.com/sumit4613/sumit4613.github.io/pull/3) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
+4. 🎉 Merged PR [#2](https://github.com/sumit4613/sumit4613.github.io/pull/2) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
+5. 💪 Opened PR [#1](https://github.com/sumit4613/sumit4613.github.io/pull/1) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
 <!--END_SECTION:activity-->
 
 ---
