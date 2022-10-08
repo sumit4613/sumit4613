@@ -27,11 +27,11 @@ I contribute to some other open source projects as well, some of those are:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/sumit4613/sumit4613.github.io/pull/4) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
-2. 💪 Opened PR [#4](https://github.com/sumit4613/sumit4613.github.io/pull/4) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
-3. 🎉 Merged PR [#1](https://github.com/sumit4613/sumit4613.github.io/pull/1) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
-4. ❌ Closed PR [#3](https://github.com/sumit4613/sumit4613.github.io/pull/3) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
-5. 🎉 Merged PR [#2](https://github.com/sumit4613/sumit4613.github.io/pull/2) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
+1. 🎉 Merged PR [#204](https://github.com/101Loop/drf-user/pull/204) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+2. 💪 Opened PR [#204](https://github.com/101Loop/drf-user/pull/204) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+3. 🗣 Commented on [#160](https://github.com/101Loop/drf-user/issues/160) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+4. ❗️ Closed issue [#160](https://github.com/101Loop/drf-user/issues/160) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+5. 🎉 Merged PR [#188](https://github.com/101Loop/drf-user/pull/188) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
 <!--END_SECTION:activity-->
 
 ---
