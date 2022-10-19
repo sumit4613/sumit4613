@@ -29,11 +29,11 @@ I contribute to some other open source projects as well, some of those are:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2157](https://github.com/python/pythondotorg/pull/2157) in [python/pythondotorg](https://github.com/python/pythondotorg)
-2. ❗️ Opened issue [#212](https://github.com/101Loop/drf-user/issues/212) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
-3. 🎉 Merged PR [#210](https://github.com/101Loop/drf-user/pull/210) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
-4. 🎉 Merged PR [#211](https://github.com/101Loop/drf-user/pull/211) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
-5. 💪 Opened PR [#208](https://github.com/101Loop/drf-user/pull/208) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
+1. 💪 Opened PR [#1152](https://github.com/pypa/packaging.python.org/pull/1152) in [pypa/packaging.python.org](https://github.com/pypa/packaging.python.org)
+2. 🎉 Merged PR [#5](https://github.com/sumit4613/sumit4613.github.io/pull/5) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
+3. 💪 Opened PR [#5](https://github.com/sumit4613/sumit4613.github.io/pull/5) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
+4. 💪 Opened PR [#2157](https://github.com/python/pythondotorg/pull/2157) in [python/pythondotorg](https://github.com/python/pythondotorg)
+5. ❗️ Opened issue [#212](https://github.com/101Loop/drf-user/issues/212) in [101Loop/drf-user](https://github.com/101Loop/drf-user)
 <!--END_SECTION:activity-->
 
 ---
