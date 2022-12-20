@@ -29,11 +29,11 @@ I contribute to some other open source projects as well, some of those are:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Blueshoe/Django-Docmaker/issues/2) in [Blueshoe/Django-Docmaker](https://github.com/Blueshoe/Django-Docmaker)
-2. 🗣 Commented on [#28](https://github.com/101Loop/drf-addons/issues/28) in [101Loop/drf-addons](https://github.com/101Loop/drf-addons)
-3. 🗣 Commented on [#2185](https://github.com/python/pythondotorg/issues/2185) in [python/pythondotorg](https://github.com/python/pythondotorg)
-4. 💪 Opened PR [#1152](https://github.com/pypa/packaging.python.org/pull/1152) in [pypa/packaging.python.org](https://github.com/pypa/packaging.python.org)
-5. 🎉 Merged PR [#5](https://github.com/sumit4613/sumit4613.github.io/pull/5) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
+1. 🎉 Merged PR [#1](https://github.com/sumit4613/aoc22/pull/1) in [sumit4613/aoc22](https://github.com/sumit4613/aoc22)
+2. ❗️ Opened issue [#2](https://github.com/Blueshoe/Django-Docmaker/issues/2) in [Blueshoe/Django-Docmaker](https://github.com/Blueshoe/Django-Docmaker)
+3. 🗣 Commented on [#28](https://github.com/101Loop/drf-addons/issues/28) in [101Loop/drf-addons](https://github.com/101Loop/drf-addons)
+4. 🗣 Commented on [#2185](https://github.com/python/pythondotorg/issues/2185) in [python/pythondotorg](https://github.com/python/pythondotorg)
+5. 💪 Opened PR [#1152](https://github.com/pypa/packaging.python.org/pull/1152) in [pypa/packaging.python.org](https://github.com/pypa/packaging.python.org)
 <!--END_SECTION:activity-->
 
 ---
