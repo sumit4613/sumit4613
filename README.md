@@ -29,11 +29,11 @@ I contribute to some other open source projects as well, some of those are:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/sumit4613/aoc22/pull/1) in [sumit4613/aoc22](https://github.com/sumit4613/aoc22)
-2. ❗️ Opened issue [#2](https://github.com/Blueshoe/Django-Docmaker/issues/2) in [Blueshoe/Django-Docmaker](https://github.com/Blueshoe/Django-Docmaker)
-3. 🗣 Commented on [#28](https://github.com/101Loop/drf-addons/issues/28) in [101Loop/drf-addons](https://github.com/101Loop/drf-addons)
-4. 🗣 Commented on [#2185](https://github.com/python/pythondotorg/issues/2185) in [python/pythondotorg](https://github.com/python/pythondotorg)
-5. 💪 Opened PR [#1152](https://github.com/pypa/packaging.python.org/pull/1152) in [pypa/packaging.python.org](https://github.com/pypa/packaging.python.org)
+1. ❌ Closed PR [#127](https://github.com/jazzband/django-revproxy/pull/127) in [jazzband/django-revproxy](https://github.com/jazzband/django-revproxy)
+2. 🗣 Commented on [#127](https://github.com/jazzband/django-revproxy/issues/127) in [jazzband/django-revproxy](https://github.com/jazzband/django-revproxy)
+3. 🎉 Merged PR [#1](https://github.com/sumit4613/aoc22/pull/1) in [sumit4613/aoc22](https://github.com/sumit4613/aoc22)
+4. ❗️ Opened issue [#2](https://github.com/Blueshoe/Django-Docmaker/issues/2) in [Blueshoe/Django-Docmaker](https://github.com/Blueshoe/Django-Docmaker)
+5. 🗣 Commented on [#28](https://github.com/101Loop/drf-addons/issues/28) in [101Loop/drf-addons](https://github.com/101Loop/drf-addons)
 <!--END_SECTION:activity-->
 
 ---
