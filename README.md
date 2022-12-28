@@ -29,11 +29,11 @@ I contribute to some other open source projects as well, some of those are:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/sumit4613/sumit4613.github.io/pull/6) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
-2. ❌ Closed PR [#127](https://github.com/jazzband/django-revproxy/pull/127) in [jazzband/django-revproxy](https://github.com/jazzband/django-revproxy)
-3. 🗣 Commented on [#127](https://github.com/jazzband/django-revproxy/issues/127) in [jazzband/django-revproxy](https://github.com/jazzband/django-revproxy)
-4. 🎉 Merged PR [#1](https://github.com/sumit4613/aoc22/pull/1) in [sumit4613/aoc22](https://github.com/sumit4613/aoc22)
-5. ❗️ Opened issue [#2](https://github.com/Blueshoe/Django-Docmaker/issues/2) in [Blueshoe/Django-Docmaker](https://github.com/Blueshoe/Django-Docmaker)
+1. ❌ Closed PR [#7](https://github.com/sumit4613/sumit4613.github.io/pull/7) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
+2. 💪 Opened PR [#6](https://github.com/sumit4613/sumit4613.github.io/pull/6) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
+3. ❌ Closed PR [#127](https://github.com/jazzband/django-revproxy/pull/127) in [jazzband/django-revproxy](https://github.com/jazzband/django-revproxy)
+4. 🗣 Commented on [#127](https://github.com/jazzband/django-revproxy/issues/127) in [jazzband/django-revproxy](https://github.com/jazzband/django-revproxy)
+5. 🎉 Merged PR [#1](https://github.com/sumit4613/aoc22/pull/1) in [sumit4613/aoc22](https://github.com/sumit4613/aoc22)
 <!--END_SECTION:activity-->
 
 ---
