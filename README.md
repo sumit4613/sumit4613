@@ -29,11 +29,11 @@ I contribute to some other open source projects as well, some of those are:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/sumit4613/sumit4613.github.io/pull/6) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
-2. 🗣 Commented on [#6](https://github.com/sumit4613/sumit4613.github.io/issues/6) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
-3. ❌ Closed PR [#7](https://github.com/sumit4613/sumit4613.github.io/pull/7) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
-4. 💪 Opened PR [#6](https://github.com/sumit4613/sumit4613.github.io/pull/6) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
-5. ❌ Closed PR [#127](https://github.com/jazzband/django-revproxy/pull/127) in [jazzband/django-revproxy](https://github.com/jazzband/django-revproxy)
+1. 💪 Opened PR [#2](https://github.com/sumit4613/post-to-mastodon/pull/2) in [sumit4613/post-to-mastodon](https://github.com/sumit4613/post-to-mastodon)
+2. ❌ Closed PR [#1](https://github.com/sumit4613/post-to-mastodon/pull/1) in [sumit4613/post-to-mastodon](https://github.com/sumit4613/post-to-mastodon)
+3. 💪 Opened PR [#1](https://github.com/sumit4613/post-to-mastodon/pull/1) in [sumit4613/post-to-mastodon](https://github.com/sumit4613/post-to-mastodon)
+4. ❌ Closed PR [#6](https://github.com/sumit4613/sumit4613.github.io/pull/6) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
+5. 🗣 Commented on [#6](https://github.com/sumit4613/sumit4613.github.io/issues/6) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
 <!--END_SECTION:activity-->
 
 ---
