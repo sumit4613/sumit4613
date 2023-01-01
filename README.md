@@ -29,11 +29,11 @@ I contribute to some other open source projects as well, some of those are:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/sumit4613/post-to-mastodon/pull/2) in [sumit4613/post-to-mastodon](https://github.com/sumit4613/post-to-mastodon)
-2. 💪 Opened PR [#2](https://github.com/sumit4613/post-to-mastodon/pull/2) in [sumit4613/post-to-mastodon](https://github.com/sumit4613/post-to-mastodon)
-3. ❌ Closed PR [#1](https://github.com/sumit4613/post-to-mastodon/pull/1) in [sumit4613/post-to-mastodon](https://github.com/sumit4613/post-to-mastodon)
-4. 💪 Opened PR [#1](https://github.com/sumit4613/post-to-mastodon/pull/1) in [sumit4613/post-to-mastodon](https://github.com/sumit4613/post-to-mastodon)
-5. ❌ Closed PR [#6](https://github.com/sumit4613/sumit4613.github.io/pull/6) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
+1. 🗣 Commented on [#6](https://github.com/sumit4613/sumit4613.github.io/issues/6) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
+2. ❌ Reopened PR [#6](https://github.com/sumit4613/sumit4613.github.io/pull/6) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
+3. ❌ Closed PR [#2](https://github.com/sumit4613/post-to-mastodon/pull/2) in [sumit4613/post-to-mastodon](https://github.com/sumit4613/post-to-mastodon)
+4. 💪 Opened PR [#2](https://github.com/sumit4613/post-to-mastodon/pull/2) in [sumit4613/post-to-mastodon](https://github.com/sumit4613/post-to-mastodon)
+5. ❌ Closed PR [#1](https://github.com/sumit4613/post-to-mastodon/pull/1) in [sumit4613/post-to-mastodon](https://github.com/sumit4613/post-to-mastodon)
 <!--END_SECTION:activity-->
 
 ---
