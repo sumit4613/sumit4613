@@ -29,11 +29,11 @@ I contribute to some other open source projects as well, some of those are:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/boxed/django-fastdev/pull/24) in [boxed/django-fastdev](https://github.com/boxed/django-fastdev)
-2. 🎉 Merged PR [#47](https://github.com/101Loop/HisabKitab-BE/pull/47) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
-3. 🎉 Merged PR [#56](https://github.com/101Loop/naaive-bot/pull/56) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
-4. 🎉 Merged PR [#55](https://github.com/101Loop/naaive-bot/pull/55) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
-5. 🎉 Merged PR [#45](https://github.com/101Loop/naaive-bot/pull/45) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
+1. 💪 Opened PR [#19](https://github.com/PHACDataHub/django-htmx-autocomplete/pull/19) in [PHACDataHub/django-htmx-autocomplete](https://github.com/PHACDataHub/django-htmx-autocomplete)
+2. 💪 Opened PR [#24](https://github.com/boxed/django-fastdev/pull/24) in [boxed/django-fastdev](https://github.com/boxed/django-fastdev)
+3. 🎉 Merged PR [#47](https://github.com/101Loop/HisabKitab-BE/pull/47) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
+4. 🎉 Merged PR [#56](https://github.com/101Loop/naaive-bot/pull/56) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
+5. 🎉 Merged PR [#55](https://github.com/101Loop/naaive-bot/pull/55) in [101Loop/naaive-bot](https://github.com/101Loop/naaive-bot)
 <!--END_SECTION:activity-->
 
 ---
