@@ -8,8 +8,8 @@ I'm Sumit. I like to code in [:snake:](https://python.org/) and [:rabbit:](https
 I maintain several projects at [101Loop](https://github.com/101loop/), some of those are:
 
 - [drf-user](https://github.com/101loop/drf-user) (One of the [PyCharm Project of the Decade](https://www.jetbrains.com/lp/pycharm-10-years/))
-
-- [drf-instamojo ](https://github.com/101loop/drf-instamojo)
+- [HisabKitab](https://github.com/101loop/HisabKitab-BE)
+- [drf-instamojo](https://github.com/101loop/drf-instamojo)
 
 I contribute to some other open source projects as well, some of those are:
 
