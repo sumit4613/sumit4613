@@ -29,11 +29,11 @@ I contribute to some other open source projects as well, some of those are:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#52](https://github.com/101Loop/HisabKitab-BE/pull/52) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
-2. ❗️ Closed issue [#13](https://github.com/101Loop/HisabKitab-BE/issues/13) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
-3. 🎉 Merged PR [#51](https://github.com/101Loop/HisabKitab-BE/pull/51) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
-4. 💪 Opened PR [#51](https://github.com/101Loop/HisabKitab-BE/pull/51) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
-5. ❗️ Closed issue [#48](https://github.com/101Loop/HisabKitab-BE/issues/48) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
+1. 🎉 Merged PR [#52](https://github.com/101Loop/HisabKitab-BE/pull/52) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
+2. 🎉 Merged PR [#53](https://github.com/101Loop/HisabKitab-BE/pull/53) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
+3. 💪 Opened PR [#52](https://github.com/101Loop/HisabKitab-BE/pull/52) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
+4. ❗️ Closed issue [#13](https://github.com/101Loop/HisabKitab-BE/issues/13) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
+5. 🎉 Merged PR [#51](https://github.com/101Loop/HisabKitab-BE/pull/51) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
 <!--END_SECTION:activity-->
 
 ---
