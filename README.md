@@ -16,9 +16,6 @@ I contribute to some other open source projects as well, some of those are:
 - [create-envfile](https://github.com/SpicyPizza/create-envfile)
 - [shynet](https://github.com/milesmcc/shynet)
 
-
-🔭 I’m currently learning [:rabbit:](https://golang.org).
-
 📫 How to reach me:
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/sumitsingh4613) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/sumit4613)
