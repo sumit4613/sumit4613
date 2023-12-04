@@ -26,11 +26,11 @@ I contribute to some other open source projects as well, some of those are:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#232](https://github.com/milesmcc/shynet/pull/232#issuecomment-1562364690) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
-2. 🗣 Commented on [#230](https://github.com/milesmcc/shynet/pull/230#issuecomment-1561781942) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
-3. 🗣 Commented on [#232](https://github.com/milesmcc/shynet/pull/232#issuecomment-1560530769) in [milesmcc/shynet](https://github.com/milesmcc/shynet)
-4. 🎉 Merged PR [#63](https://github.com/101Loop/HisabKitab-BE/pull/63) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
-5. 🎉 Merged PR [#62](https://github.com/101Loop/HisabKitab-BE/pull/62) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
+1. 🎉 Merged PR [#66](https://github.com/101Loop/HisabKitab-BE/pull/66) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
+2. 💪 Opened PR [#65](https://github.com/101Loop/HisabKitab-BE/pull/65) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
+3. 🎉 Merged PR [#64](https://github.com/101Loop/HisabKitab-BE/pull/64) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
+4. 💪 Opened PR [#4](https://github.com/drozdowsky/django-tracking-model/pull/4) in [drozdowsky/django-tracking-model](https://github.com/drozdowsky/django-tracking-model)
+5. 🎉 Merged PR [#9](https://github.com/sumit4613/sumit4613.github.io/pull/9) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
 <!--END_SECTION:activity-->
 
 ---
