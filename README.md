@@ -26,11 +26,11 @@ I contribute to some other open source projects as well, some of those are:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66](https://github.com/101Loop/HisabKitab-BE/pull/66) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
-2. 💪 Opened PR [#65](https://github.com/101Loop/HisabKitab-BE/pull/65) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
-3. 🎉 Merged PR [#64](https://github.com/101Loop/HisabKitab-BE/pull/64) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
-4. 💪 Opened PR [#4](https://github.com/drozdowsky/django-tracking-model/pull/4) in [drozdowsky/django-tracking-model](https://github.com/drozdowsky/django-tracking-model)
-5. 🎉 Merged PR [#9](https://github.com/sumit4613/sumit4613.github.io/pull/9) in [sumit4613/sumit4613.github.io](https://github.com/sumit4613/sumit4613.github.io)
+1. 🗣 Commented on [#4](https://github.com/drozdowsky/django-tracking-model/pull/4#issuecomment-1914124422) in [drozdowsky/django-tracking-model](https://github.com/drozdowsky/django-tracking-model)
+2. 🎉 Merged PR [#66](https://github.com/101Loop/HisabKitab-BE/pull/66) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
+3. 💪 Opened PR [#65](https://github.com/101Loop/HisabKitab-BE/pull/65) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
+4. 🎉 Merged PR [#64](https://github.com/101Loop/HisabKitab-BE/pull/64) in [101Loop/HisabKitab-BE](https://github.com/101Loop/HisabKitab-BE)
+5. 💪 Opened PR [#4](https://github.com/drozdowsky/django-tracking-model/pull/4) in [drozdowsky/django-tracking-model](https://github.com/drozdowsky/django-tracking-model)
 <!--END_SECTION:activity-->
 
 ---
